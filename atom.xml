@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://junhao-blog.github.io</id>
     <title>Junhao-blog</title>
-    <updated>2020-10-06T04:12:36.658Z</updated>
+    <updated>2020-10-06T04:19:16.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://junhao-blog.github.io"/>
     <link rel="self" href="https://junhao-blog.github.io/atom.xml"/>
     <logo>https://junhao-blog.github.io/images/avatar.png</logo>
     <icon>https://junhao-blog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Junhao-blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Junhao-Blog开业！]]></title>
+        <id>https://junhao-blog.github.io/post/junhao-blog-kai-ye/</id>
+        <link href="https://junhao-blog.github.io/post/junhao-blog-kai-ye/">
+        </link>
+        <updated>2020-10-06T04:15:25.000Z</updated>
+        <content type="html"><![CDATA[<p>Junhao-Blog开业辣！<br>
+url地址是:https://junhao-blog.github.io/!<br>
+这是这个博客的第一个文章!<br>
+后面会有自制的软件开源源代码(部分)<br>
+或者软件哦！</p>
+]]></content>
+    </entry>
 </feed>
